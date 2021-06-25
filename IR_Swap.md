@@ -1,4 +1,4 @@
-## IRSwap Example
+## IR Swap Example
 
 Imagine a company Russell having AAA credit rating and a company Duan having BBB credit rating.<br>
 They will have different loan interest rates due to different credit rating.<br>
